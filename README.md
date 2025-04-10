@@ -20,7 +20,7 @@ It is a simple microservice, running on Node.js, that serves a basic Welcome htm
 ## Before you start
 Ensure all the prerequisite software is installed:
 * *Node.js* - installation instructions are available for different platforms at *https://nodejs.org/en/download/*. The application has been developed and tested with Node.js v12.14.1.
-* *npm* - Node.js Package Manager is distributed with Node.js, which means that when you download Node.js, you automatically get npm installed on your computer. The application has been developed and tested with npm v6.13.4.
+* *npm* - Node.js Package Manager is distributed with Node.js, which means that when you download the Node.js, you automatically get npm installed on your computer. The application has been developed and tested with npm v6.13.4.
 
 Clone this repository 
 ```
